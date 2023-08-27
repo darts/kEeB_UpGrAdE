@@ -1,0 +1,3 @@
+[submodule "pio"]
+	path = pio
+	url = git@github.com:sekigon-gonnoc/Pico-PIO-USB.git
