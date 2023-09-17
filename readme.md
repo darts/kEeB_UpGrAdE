@@ -48,8 +48,8 @@ After investigation, the root cause of this was an issue with the keyboard firmw
     - Solder (ideally unleaded if you like having braincells)  
 - Mechanical:
     - 3D printer (or 3D printing service)
-    - X m2 * 6mm bolts
-    - Y m3 * 6mm bolts
+    - 6 M2 * 4mm bolts
+    - 4 M3 * 6mm bolts
     - Tap set M2 & M3 **or** heat set inserts ([Ruthex makes good ones](https://www.amazon.de/ruthex-Gewindeeinsatz-Sortimentskasten-St%C3%BCck-Kunststoffteile/dp/B08K1BVGN9))
 
 ### The Pico:
