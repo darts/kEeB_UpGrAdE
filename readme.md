@@ -4,7 +4,7 @@
 
 A Raspberry Pi Pico that handles the following:
 
-1. Hardware-accellerated sarcasm for your keyboard. 
+1. Hardware-accellerated sarcasm for your keyboard.  
 ![SaRcAsM](./media/useful!.png)
 2. Resolving issues with certain keyboard layouts, allowing remapping in realtime. This particular fix can resolve issues like: ![layout not matching the keys .jpg](./media/the_problem.png) 
 After investigation, the root cause of this was an issue with the keyboard firmware called `colemak-dh`. This strange layout causes keys not to land in the right `qwerty` places. In theory this functionality can be extended to cover other similar keyboard issues.  
@@ -24,10 +24,10 @@ After investigation, the root cause of this was an issue with the keyboard firmw
 ### Shortcuts
 
 - SaRcAsM mOdE
-    - `super + ctrl + x`
+    - `super + ctrl + x`  
     ![SaRcAsM mOdE](./media/sup_ctrl_x.gif)
 - Colemak layout-fix 
-    - `super + ctrl + f`
+    - `super + ctrl + f`  
     ![Colemak fix](./media/sup_ctrl_f.gif)
 
 ## Why would anyone want this tho?
