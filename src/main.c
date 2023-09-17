@@ -171,7 +171,6 @@ bool check_keybinds(hid_keyboard_report_t* report) {
   return false;
 }
 
-// convert hid keycode to ascii and print via usb device CDC (ignore non-printable)
 static void process_kbd_report(uint8_t dev_addr,uint8_t instance, hid_keyboard_report_t* report)
 {
   static bool flip = true;

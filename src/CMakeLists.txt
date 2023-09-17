@@ -1,4 +1,4 @@
-set(target_name main)
+set(target_name kEeB)
 add_executable(${target_name})
 
 target_sources(${target_name} PRIVATE
